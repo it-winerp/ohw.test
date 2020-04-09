@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DefaultValueProduct</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>39515bba-2048-4b7c-8411-bac1a78de46c</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Commitment+Document+Delay 30</data>
+   <data>Commitment+Delivery+Delay 60</data>
+   <data>Comment+Thanks+Letter+Delay 7</data>
+   <data>Commitment+First+Thanks+Letter+Delay 60</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>FieldName</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Value</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
